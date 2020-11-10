@@ -1,0 +1,2 @@
+Run `pip freeze > requirements.txt` to create/update the requirements.txt file.
+Run `pip install -r requirements.txt` to install from the requirements.txt file.
